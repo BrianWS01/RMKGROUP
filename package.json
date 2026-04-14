@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/BrianWS01/RMKGROUP/issues"
   },
-  "homepage": "https://github.com/BrianWS01/RMKGROUP#readme"
+  "homepage": "https://github.com/BrianWS01/RMKGROUP#readme",
+  "dependencies": {
+    "jimp": "^1.6.1",
+    "sharp": "^0.34.5"
+  }
 }
